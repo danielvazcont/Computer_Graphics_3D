@@ -1,32 +1,34 @@
-### Fundamentals of 2D Graphics + Extra project
+### Fundamentals of 3D Graphics + Extra project
 
-- 1.-  Sketching a line using the point-slope equation
-- 2.-  Enhancing line sketching by handling quadrants
-- 3.-  DDA algorithm for line drawing
-- 4.-  Bresenham's algorithm for line drawing
-- 5.-  Midpoint algorithm for line drawing
-- 6.-  Algorithm to draw rectangle
-- 7.- Circle drawing using cartesian coordinates
-- 8.- Circle drawing using polar coordinates
-- 9.- Circle drawing with 8-fold symmetry
-- 10.- Circle drawing using midpoint algorithm
-- 11.- Drawing circle using Bresenham's algorithm
-- 12.- Drawing lines, circles, ellipses, and rectangles
-- 13.- DDA line drawing with pixel skipping
-- 14.- Flood fill algorithm
-- 15.- Scaling transformation
-- 16.- Drawing circles using Grosor algorithm
-- 17.- Scanline algorithm implementation
-- 18.- Flood fill algorithm implementation
-- 19.- Cohen-Sutherland line clipping
-- 20.- Circle clipping
+<div style="text-align: justify;">
+In most of the practices, you can use the keys "A," "D," "S," "W" to move, "Q" and "E" to rotate, "F" and "G" to scale it (in some exercises), and the arrow keys as well as "1" and "2" for other functions if the program allows.
+</div>
+
+- 1.- Parallel projection
+- 2.-Perspective projection
+- 3.- 3D translation
+- 4.- 3D scaling
+- 5.- 3D rotation
+- 6.- Automatic 3D rotation
+- 7.- Drawing a 3D parametric curve
+- 8.- Drawing a 3D surface
+- 9.- Drawing a cylinder
+
+<p align="center">
+  <img src="[imagen1.jpg](https://i.postimg.cc/mrFZ4wQJ/1.jpg)" width="200" alt="Imagen 1">
+  <img src="[imagen2.jpg](https://i.postimg.cc/bvbPWvPj/2.jpg)" width="200" alt="Imagen 2">
+  <img src="[imagen3.jpg](https://i.postimg.cc/XNxbThRX/3.jpg)" width="200" alt="Imagen 3">
+  <img src="[imagen4.jpg](https://i.postimg.cc/mrxfYGHp/4.jpg)" width="200" alt="Imagen 4">
+</p>
 
 # Project
 <div style="text-align: justify;">
-This project serves as an application of the various 2D algorithms studied. It entails a basic spaceship that can be maneuvered using the keys "A", "W", "S" and "D" within a dynamic environment. The environment is imbued with animations, making use of the acquired methods to create a lively and interactive setting.
+This project is the culmination of everything learned up to the point of developing these algorithms, both in 2D and 3D. We can observe the animation of the classic 'Pac-Man' as it eats the enemies or other items that we can find within the video game, accompanied by some music.
+
+You can use 'A', 'D', 'S', and 'W' to rotate the animation, 'F' and 'G' to scale it, 'M' and 'N' to pause or resume, and 'Q' and 'E' to change the object that Pac-Man is consuming.
 </div>
 
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/sXHFWJ2J/espacio.jpg' border='0' alt='espacio'/></a>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/hjZq7QbT/project.jpg' border='0' alt='project'/></a>
 
 # Dany
 
@@ -35,6 +37,6 @@ This project serves as an application of the various 2D algorithms studied. It e
 </p>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5273/5273716.png" alt="Image Description"  width="200">
+  <img src="https://logo.com/image-cdn/images/kts928pd/production/23b3439d3cbbce18aa2c2e2c73217749e77836cc-436x419.png?w=1080&q=72" alt="Image Description"  width="200">
 </p>
 
