@@ -15,7 +15,7 @@ In most of the practices, you can use the keys "A," "D," "S," "W" to move, "Q" a
 - 9.- Drawing a cylinder
 
 <p align="center">
-  <img src="[imagen1.jpg](https://i.postimg.cc/mrFZ4wQJ/1.jpg)" width="200" alt="Imagen 1">
+  <img src='https://i.postimg.cc/mrFZ4wQJ/1.jpg' width="200" alt="Imagen 1">
   <img src="[imagen2.jpg](https://i.postimg.cc/bvbPWvPj/2.jpg)" width="200" alt="Imagen 2">
   <img src="[imagen3.jpg](https://i.postimg.cc/XNxbThRX/3.jpg)" width="200" alt="Imagen 3">
   <img src="[imagen4.jpg](https://i.postimg.cc/mrxfYGHp/4.jpg)" width="200" alt="Imagen 4">
